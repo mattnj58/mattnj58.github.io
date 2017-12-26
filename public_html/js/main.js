@@ -38,9 +38,9 @@ $(document).ready(function() {
         slides: [
             { src: 'img/slider/01.jpg' },
             { src: 'img/slider/02.jpg' },
-            { src: 'img/slider/03.jpg' },
-	    { src: 'img/slider/04.jpg' },
-            { src: 'img/slider/05.jpg' }
+            { src: 'img/slider/SanFran.jpg' },
+	        { src: 'img/slider/lehigh.jpg' },
+            { src: 'img/slider/quote.jpg' }
         ],
     overlay: true
 });

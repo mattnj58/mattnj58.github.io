@@ -19,7 +19,7 @@ $email_subject = "Contact form submitted by:  $name";
 $email_body = "You have received a new message. \n\n".
 				  " Here are the details:\n \nName: $name \n ".
 				  "Email: $email_address\n Message: \n $message";
-$headers = "From: noreply@jordancutler.net\n"; 
+$headers = "From: noreply@poppinstacks.github.io\n";
 // Since this email form will be generated from your server. The From email address will be best using something like this noreply@yourdomain.com
 $headers .= "Reply-To: $email_address";	
 mail($to,$email_subject,$email_body,$headers);

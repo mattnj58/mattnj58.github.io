@@ -40,7 +40,7 @@ $(document).ready(function() {
             { src: 'img/slider/02.jpg' },
             { src: 'img/slider/SanFran.jpg' },
 	        { src: 'img/slider/lehigh.jpg' },
-            { src: 'img/slider/quote.jpg' }
+            { src: 'img/slider/program.jpg' }
         ],
     overlay: true
 });
